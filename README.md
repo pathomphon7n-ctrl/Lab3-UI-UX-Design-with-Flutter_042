@@ -1,4 +1,6 @@
 6720210042
+<img width="801" height="1070" alt="Screenshot 2569-11-24 at 17 05 22" src="https://github.com/user-attachments/assets/aad6eb6e-1048-470a-80d1-ebdaddbeccdd" />
+
 # lab03_042
 
 A new Flutter project.
